@@ -1,0 +1,36 @@
+.jumbotron{
+
+  text-align: center;
+  height: 50px;
+font-family: 'Grenze Gotisch', cursive,bolder;
+background-color: #ffba08;
+border-bottom: 2px solid #ef233c;
+padding-top: 0px
+}
+
+.dot {
+  height: 80px;
+  width: 80px;
+  border-radius: 100%;
+  display: inline-block;
+  margin:3px;
+  background-color:#fa7d09;
+}
+
+table{
+margin-left: auto;
+margin-right: auto;
+}
+body{
+  background-color: #4a3f35;
+}
+#winnerA{
+	color: #e8505b;
+	font-family: 'Monoton', cursive;
+	font-size: 100px;
+	}
+  #winnerB{
+  	color: #79d70f;
+  	font-family: 'Monoton', cursive;
+  	font-size: 100px;
+  	}
